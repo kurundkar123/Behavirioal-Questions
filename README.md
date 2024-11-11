@@ -4,7 +4,7 @@ Company-wise behavioral Question
 # Mathworks
 what interest you about the position most?
 
-Current Understanding of EDG role
+Current understanding of EDG role
 
 what interest areas you have that you want to explore in mathworks?
 
@@ -31,15 +31,25 @@ what is the one thing you want to improve upon?
 what one thing you learned about yourself when you were interning?
 
 what do you think would be challenging stuff would be for you?
+
 Do you have experience teaching people?
+
 what challenging and rewarding on teaching people?
+
 what changes did you have to make to explain concepts?
+
 what one thing I can change about your MS program?
+
 Can you tell me a situation where you had dissappointed and how did you handle it?
+
 Tell me a time when you took initiave to accompolish something?
+
 What extra metrics did you discover while working at your internship?
+
 which one is your favorite experience from your work experience?
+
 What do you think you would do differently(different perspective) from your previous experience?
+
 Can you tell me about time when you got constructive feedback and how did you handle it?
 Can you tell me about a time plans and priorities changed and how did you handle it?
 
